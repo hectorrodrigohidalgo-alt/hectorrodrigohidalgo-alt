@@ -1,5 +1,5 @@
 # About Me:
-Hola, soy Héctor Hidalgo<br><br>💻 Ingeniero Informático | Full Stack Developer<br><br>interesado en el desarrollo de software, la arquitectura backend y las tecnologías cloud. Me enfoco en construir aplicaciones web, desarrollar APIs REST, trabajar con bases de datos relacionales y automatizar procesos mediante soluciones tecnológicas.<br>
+Hola, soy Héctor Hidalgo<br><br>Ingeniero Informático | Full Stack Developer<br><br>interesado en el desarrollo de software, la arquitectura backend y las tecnologías cloud. Me enfoco en construir aplicaciones web, desarrollar APIs REST, trabajar con bases de datos relacionales y automatizar procesos mediante soluciones tecnológicas.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hector-hidalgo-diaz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hectorrodrigohidalgo@gmail.com) 
